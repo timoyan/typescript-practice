@@ -1,0 +1,17 @@
+{
+  "name": "ts",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "TimoYan <timoyan13@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/TimoYan/Typescript-practice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

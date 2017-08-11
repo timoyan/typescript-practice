@@ -1,0 +1,25 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimoYan/Typescript-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimoYan/Typescript-practice/issues"
+  },
+  "homepage": "https://github.com/TimoYan/Typescript-practice#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
